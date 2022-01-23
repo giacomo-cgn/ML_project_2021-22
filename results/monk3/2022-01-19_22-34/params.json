@@ -1,0 +1,1 @@
+{"layer_arr": [17, 4, 1], "learning_rate": 0.4, "activ_func": "sigmoid", "activ_func_out": "sigmoid", "loss": "MSE", "momentum": 0.5, "lambda_reg": 0.0, "reg_type": "l2", "rand": false, "lr_type": ["fixed"], "tau": 0, "batches": 1}

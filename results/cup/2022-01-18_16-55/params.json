@@ -1,0 +1,1 @@
+{"layer_arr": [10, 15, 6, 2], "learning_rate": 0.001, "activ_func": "leakyrelu", "activ_func_out": "identity", "loss": "MEE", "momentum": 0.0, "lambda_reg": 0.001, "reg_type": "l2", "rand": false, "lr_type": "fixed", "tau": 10000, "batches": 16}
