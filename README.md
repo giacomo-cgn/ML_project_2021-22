@@ -4,9 +4,9 @@ Multi layer NN from scratch
 **Machine Learning Course Project**
 
 **Authors:**
-Cignoni Giacomo 
-Marinelli Alberto Roberto 
-Melero Cavallo Martina
+Cignoni Giacomo, 
+Marinelli Alberto Roberto, 
+Melero Cavallo Martina,
 
  Master Degree Computer Science, AI curriculum ML course (654AA),
  Academic Year: 2021-2022
