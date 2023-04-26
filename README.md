@@ -34,3 +34,5 @@ The algorithm is able
  rate decay, L1 regularization, the possibility to have an arbitrary
  number of hidden layers and also the option to pursue a randomized
  Neural Network and ensemble approach.
+ 
+ More infos in the report.pdf file.
